@@ -7,7 +7,7 @@
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
 
-Here are some ideas to get you started:
+Saiba um pouquinho mais sobre mim:
 
 - 🔭 No momento estou em busca de uma oportunidade na área de tecnologia
 - 🌱 Focando meus estudos em C e C++ no momento
