@@ -23,6 +23,14 @@
    <img alt = "luan-cplusplus" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style = "display: inline-block;" />
 </div>
 
+<div align = "center">
+   <p> Softwares e Ferramentas: </p>
+   <img alt = "luan-linux" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style = "display: inline-block;" />
+   <img alt = "luan-windows11" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" style = "display: inline-block;" />
+   <img alt = "luan-visualstudiocode" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style = "display: inline-block;" />
+   <img alt = "luan-git" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style = "display: inline-block;" />
+   <img alt = "luan-github" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" style = "display: inline-block;" />
+</div>
 <br>
 Saiba um pouquinho mais sobre mim:
 
