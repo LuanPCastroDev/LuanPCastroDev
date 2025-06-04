@@ -35,7 +35,7 @@
 Saiba um pouquinho mais sobre mim:
 
 - 🔭 No momento estou em busca de uma oportunidade na área de tecnologia
-- 🌱 Focando meus estudos em C e C++ no momento
+- 🌱 Focando meus estudos em C, C++, HTML e CSS no momento
 - 👯 Entre em contato comigo pelo e-mail: castro.luanjfmg@gmail.com
 - 😄 Pronome: Ele (He)
 - ⚡ Curiosidades: Apaixonado por Física, Astronomia, Política e Matemática. Mas de forma geral gosto de assuntos variados.
