@@ -14,6 +14,7 @@
   <img alt = "luan-cplusplus" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style = "display: inline-block;" />
   <img alt = "luan-python" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style = "display: inline-block;" />
   <img alt = "luan-csharp" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style = "display: inline-block;" />
+  <img alt = "luan-javaScript" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style = "display: inline-block;" />  
 </div>
 
 <br>
