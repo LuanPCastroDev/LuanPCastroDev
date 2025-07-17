@@ -22,6 +22,9 @@
 <div align = "center">
    <p> Estou aprendendo no momento: </p>
    <img alt = "luan-cplusplus" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style = "display: inline-block;" />
+   <img alt = "luan-html5" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style = "display: inline-block;" />
+   <img alt = "luan-css3" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style = "display: inline-block;" />
+   <img alt = "luan-javaScript" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style = "display: inline-block;" />  
 </div>
 
 <div align = "center">
