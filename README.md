@@ -1,6 +1,6 @@
 ## Oi pessoal! Como vocês estão?👋 Hi there! How are you?
 <div>
-   <p align="center">
+   <p align = "justify">
    <a href = "https://github.com/LuanPCastroDev">
    <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanPCastroDev&layout=compact&langs_count=7&theme=dracula"/>
    <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=LuanPCastroDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
