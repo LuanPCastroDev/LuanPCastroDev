@@ -44,6 +44,6 @@ Saiba um pouquinho mais sobre mim:
 - 😄 Pronome: Ele (He)
 - ⚡ Curiosidades: Apaixonado por Física, Astronomia, Política e Matemática. Mas de forma geral gosto de assuntos variados.
 - 
-![Pac-Man Animation](https://user-images.githubusercontent.com/yourgithubid/pacman-animation.gif)
+- ![Pac-Man Animation](https://raw.githubusercontent.com/seuusuario/pacman-animation/main/pacman.gif)
 
 
