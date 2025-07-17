@@ -44,4 +44,3 @@ Saiba um pouquinho mais sobre mim:
 - 😄 Pronome: Ele (He)
 - ⚡ Curiosidades: Apaixonado por Física, Astronomia, Política e Matemática. Mas de forma geral gosto de assuntos variados.
 
-![Snake animation](https://github.com/LuanPCastroDev/LuanPCastroDev/blob/output/github-contribution-grid-snake.svg)
