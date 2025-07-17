@@ -43,4 +43,7 @@ Saiba um pouquinho mais sobre mim:
 - 👯 Entre em contato comigo pelo e-mail: castro.luanjfmg@gmail.com
 - 😄 Pronome: Ele (He)
 - ⚡ Curiosidades: Apaixonado por Física, Astronomia, Política e Matemática. Mas de forma geral gosto de assuntos variados.
+- 
+![Pac-Man Animation](https://user-images.githubusercontent.com/yourgithubid/pacman-animation.gif)
+
 
